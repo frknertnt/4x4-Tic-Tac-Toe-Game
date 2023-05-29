@@ -11,7 +11,7 @@ Before the start new game you should enter your and opposite person name.
 And play game
 ![editname](https://github.com/frknertnt/4x4-Tic-Tac-Toe-Game/blob/main/images/TicTacToe.gif) 
 
-You can draw with your opponent, albeit with a low probability :)
+You can draw with your opponent, despite with a low probability :)
 ![editname](https://github.com/frknertnt/4x4-Tic-Tac-Toe-Game/blob/main/images/draw.png) 
 
 
